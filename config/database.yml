@@ -24,6 +24,6 @@ production:
   adapter: postgresql
   encoding: unicode
   pool: 5
-  database: today's_dinner_blog_production
-  username: today's_dinner_blog
-  password: <%= ENV['TODAY'S_DINNER_BLOG_DATABASE_PASSWORD'] %>
+  database: today`s_dinner_blog_production
+  username: today`s_dinner_blog
+  password: <%= ENV['TODAY`S_DINNER_BLOG_DATABASE_PASSWORD'] %>
